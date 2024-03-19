@@ -1,2 +1,2 @@
-# kotlinsamples
-Java snipits
+# Kotlin Samples
+Kotlin snipits
